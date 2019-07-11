@@ -3,5 +3,5 @@ package hi
 import "fmt"
 
 func Say(){
-fmt.Println("hello.github.com")
+fmt.Println("hello,I'm master")
 }
